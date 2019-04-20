@@ -62,4 +62,8 @@ docker push localhost:5000/oracle/database:12.2.0.1-ee
 
 ![](img/Docker-Registry/image-Docker-Registry_2019-03-23-20-53-19.png)
 
+---
+
+- 2019-03-17 by c-zero-f
+
 [Back](Readme.md)
