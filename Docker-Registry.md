@@ -1,16 +1,6 @@
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-* [创建Docker私有库](#创建docker私有库)
-	* [创建容器](#创建容器)
-	* [提交本地镜像到私有库中](#提交本地镜像到私有库中)
-	* [删除库中的镜像](#删除库中的镜像)
-
-<!-- /code_chunk_output -->
-
 # 创建Docker私有库
+
+[[TOC]]
 
 ## 创建容器
 
